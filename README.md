@@ -28,9 +28,6 @@ What are the suggestions for next steps?
 The focus should be on improving the performance of stroke models that had unsatisfactory results. The influencing factors can also be studied more deeply and additional machine learning algorithms or new data processing techniques can be tested to obtain more accurate results.
 
 #### Project outline
-
-
-
-
+https://github.com/FayyadBayan/MODEL24/blob/main/Predicting%20sudden%20fatal%20diseases_FINAL_MODEL.ipynb
 ##### Contact and more information
 fayyadf@hotmail.com
